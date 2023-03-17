@@ -10,7 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  faker: ^2.1.0
+  animate_do: ^3.0.2
+  google_fonts: ^4.0.3
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
